@@ -25,8 +25,8 @@ It simulates how a real company calculates employee salaries, applies deductions
 - Menu-driven Console Interaction
 - Input Validation
 
-### Flow Chart
-![QuickMart Output](Output/output.png)
+### Output
+![Payroll Output](Output/output.png)
 
 
 
